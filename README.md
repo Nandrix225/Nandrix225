@@ -1,4 +1,4 @@
-### Hey Wassup, I'am Fernando, Programming student
+### Hey Wassup, I'am Fernando, Programming student.
 16 years
  #
  <div align="center">
