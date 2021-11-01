@@ -14,3 +14,5 @@
   <img align="center" alt="Nando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nanado-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<p align="center"> People who visit my profile </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nandrix225/count.svg" /></p>
