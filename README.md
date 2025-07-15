@@ -1,10 +1,15 @@
 ### Hey Wassup, I'am Fernando, Programming student.
 20 years
 #
+
+<br>
+
 <div align="center">
+  
   <a href="https://github.com/Nandri225">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandrix225&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandrix225&layout=compact&langs_count=7&theme=dark"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandrix225&layout=compact&langs_count=7&theme=dark"/>
+    
 </div>
    
    #
@@ -19,7 +24,7 @@
 </div>
   
   #
- 
+ ### Contact Me:
 <div>
  
   <a href="https://instagram.com/staid.nando" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
