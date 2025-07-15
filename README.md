@@ -19,6 +19,6 @@
  <br>
  <div>
   <br>
-  _______________________________________________________________________________________________________________________________________________
+  ______________________________________________________________________________________________________________________________________________
   <p> Contate-me </p> 
   <a href="https://www.instagram.com/staid.nando/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
